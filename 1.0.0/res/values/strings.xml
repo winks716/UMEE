@@ -3,6 +3,16 @@
 
     <string name="app_name">UMEE</string>
     <string name="action_settings">Settings</string>
-    <string name="main_welcome">Welcome to my first APP!</string>
+    <string name="mainActivity_mainTitle">Calendar</string>
+    <string name="mainActivity_heightLabel">Height(cm)</string>
+    <string name="mainActivity_weightLabel">Weight(kg)</string>
+    <string name="mainActivity_calculateButtonText">Calculate NOW!</string>
+    <string name="mainActivity_resultLabel">BMI:</string>
+    <string name="mainActivity_resultBMI">Your BMI is : </string>
+    <string name="mainActivity_aboutTitle">About Android BMI</string>
+    <string name="mainActivity_aboutContent">Android BMI Calculator 1.0</string>
+    <string name="mainActivity_aboutPositiveButtonText">OK</string>
+    <string name="mainActivity_aboutUri">http://www.uatme.com</string>
+    <string name="mainActivity_aboutNagtiveButtonText">U@ME home</string>
 
 </resources>
